@@ -4,7 +4,7 @@ I am a Full Stack Engineer with a background in **Ad Tech**, **Privacy Systems**
 
 I have spent the last few years at **Amazon** and **PebblePost** building scalable backends and privacy-first collaboration tools (like AWS Clean Rooms). I enjoy solving complex system design problems and making data useful.
 
-Currently, I'm working independently—building **Micro-SaaS** projects and exploring **AI Agents** with Python and LangChain.
+Currently, I'm working independently-building **Micro-SaaS** projects and exploring **AI Agents** with Python and LangChain.
 
 ---
 
