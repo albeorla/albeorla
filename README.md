@@ -21,7 +21,7 @@ Founding engineer of Amazon Publisher Cloud, shipped 0-to-1 product from alpha t
 
 ### 🔭 What I'm Working On
 
-Currently on a career break for family caregiving. Continuing technical development focused on agentic design patterns, building multi-agent orchestration systems and applied LLM architectures.
+Technical development focused on agentic design patterns, building multi-agent orchestration systems and applied LLM architectures.
 
 **Key Projects:**
 - **FounderMode:** TBD
