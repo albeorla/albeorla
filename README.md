@@ -19,16 +19,16 @@
 
 ### 🔭 What I'm Working On
 
-Technical development focused on agentic design patterns, building multi-agent orchestration systems and applied LLM architectures.
+Building multi-agent orchestration systems and applied LLM architectures.
 
 **Key Projects:**
 
-- **[AgentKit](https://github.com/albeorla/founder-mode/tree/main/libs/agentkit):** Functional toolkit for building LangGraph AI agents. Provides production-ready infrastructure including LLM factories, cascading web extraction (Playwright → Readability → BS4), semantic vector storage with ChromaDB, and composable decorators (`@logged`, `@with_retry`, `@with_fallback`). Designed around "toolkit not framework" philosophy—use what you need, write LangGraph directly.
+- **[AgentKit](https://github.com/albeorla/founder-mode/tree/main/libs/agentkit):** A functional toolkit for LangGraph agents. Includes LLM factories, cascading web extraction (Playwright to Readability to BS4), ChromaDB vector storage, and composable decorators like `@logged`, `@with_retry`, and `@with_fallback`. Built around a "toolkit not framework" philosophy: use what you need, write LangGraph directly, no wrappers.
 
-- **[DD-Arbiter](https://github.com/albeorla/founder-mode/tree/main/apps/dd-arbiter):** Adversarial multi-model research engine for investment thesis stress-testing. Orchestrates GPT-4o, Claude, and Gemini in parallel Bull/Bear/Analyst roles, then uses DeBERTa-Large-MNLI for semantic clustering and NLI-based disagreement detection. Implements uncertainty quantification via semantic entropy (not verbalized confidence) to surface where models genuinely disagree—turning model discord into actionable signal for due diligence.
+- **[DD-Arbiter](https://github.com/albeorla/founder-mode/tree/main/apps/dd-arbiter):** Adversarial multi-model research for investment due diligence. Runs GPT-4o, Claude, and Gemini in parallel as Bull, Bear, and Analyst agents, then detects where they disagree using DeBERTa-Large-MNLI for semantic clustering and NLI comparison. Uses semantic entropy rather than verbalized confidence to quantify uncertainty. The core idea: model disagreement is signal, not noise.
 
-- **Pain Radar:** Autonomous research agent using LangGraph that orchestrates Reddit scraping, noise filtering, and signal clustering using OpenAI Function Calling and async pipelines
+- **Pain Radar:** Autonomous research agent using LangGraph that orchestrates Reddit scraping, noise filtering, and signal clustering with OpenAI Function Calling and async pipelines.
 
-- **RL Ad Campaign Optimizer:** DQN agent prototype in TypeScript/TensorFlow.js exploring ad spend optimization with experience replay
+- **RL Ad Campaign Optimizer:** DQN agent prototype in TypeScript/TensorFlow.js exploring ad spend optimization with experience replay.
 
 [![Linkedin: Albert Orlando](https://img.shields.io/badge/-Albert%20Orlando-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/albeorla/)](https://www.linkedin.com/in/albeorla/)
