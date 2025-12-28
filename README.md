@@ -1,11 +1,11 @@
 # Hi, I'm Albert Orlando! 👋
 
+
 8+ years building full-stack web applications, designing APIs, and delivering platform products. Strong foundation in React, TypeScript, cloud infrastructure, and building agentic AI workflows that integrate deterministic code with probabilistic LLM reasoning.
 
+
 ---
-
 ### 🛠 Languages & Tools
-
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
@@ -14,21 +14,14 @@
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
-
 ---
 
+
 ### 🔭 What I'm Working On
-
-Building multi-agent orchestration systems and applied LLM architectures.
-
+Working on multi-agent orchestration systems and applied LLM architectures.
 **Key Projects:**
-
 - **[AgentKit](https://github.com/albeorla/founder-mode/tree/main/libs/agentkit):** A functional toolkit for LangGraph agents. Includes LLM factories, cascading web extraction (Playwright to Readability to BS4), ChromaDB vector storage, and composable decorators like `@logged`, `@with_retry`, and `@with_fallback`. Built around a "toolkit not framework" philosophy: use what you need, write LangGraph directly, no wrappers.
-
-- **[DD-Arbiter](https://github.com/albeorla/founder-mode/tree/main/apps/dd-arbiter):** Adversarial multi-model research for investment due diligence. Runs GPT-5, Claude, and Gemini in parallel as Bull, Bear, and Analyst agents, then detects where they disagree using DeBERTa-Large-MNLI for semantic clustering and NLI comparison. Uses semantic entropy rather than verbalized confidence to quantify uncertainty. The core idea: model disagreement is signal, not noise.
-
+- **[DD-Arbiter](https://github.com/albeorla/founder-mode/tree/main/apps/dd-arbiter):** Adversarial multi-model research for investment due diligence. Runs GPT-4o, Claude, and Gemini in parallel as Bull, Bear, and Analyst agents, then detects where they disagree using DeBERTa-Large-MNLI for semantic clustering and NLI comparison. Uses semantic entropy rather than verbalized confidence to quantify uncertainty. The core idea: model disagreement is signal, not noise.
 - **Pain Radar:** Autonomous research agent using LangGraph that orchestrates Reddit scraping, noise filtering, and signal clustering with OpenAI Function Calling and async pipelines.
-
 - **RL Ad Campaign Optimizer:** DQN agent prototype in TypeScript/TensorFlow.js exploring ad spend optimization with experience replay.
-
 [![Linkedin: Albert Orlando](https://img.shields.io/badge/-Albert%20Orlando-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/albeorla/)](https://www.linkedin.com/in/albeorla/)
