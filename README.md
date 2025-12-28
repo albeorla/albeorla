@@ -25,7 +25,7 @@ Building multi-agent orchestration systems and applied LLM architectures.
 
 - **[AgentKit](https://github.com/albeorla/founder-mode/tree/main/libs/agentkit):** A functional toolkit for LangGraph agents. Includes LLM factories, cascading web extraction (Playwright to Readability to BS4), ChromaDB vector storage, and composable decorators like `@logged`, `@with_retry`, and `@with_fallback`. Built around a "toolkit not framework" philosophy: use what you need, write LangGraph directly, no wrappers.
 
-- **[DD-Arbiter](https://github.com/albeorla/founder-mode/tree/main/apps/dd-arbiter):** Adversarial multi-model research for investment due diligence. Runs GPT-4o, Claude, and Gemini in parallel as Bull, Bear, and Analyst agents, then detects where they disagree using DeBERTa-Large-MNLI for semantic clustering and NLI comparison. Uses semantic entropy rather than verbalized confidence to quantify uncertainty. The core idea: model disagreement is signal, not noise.
+- **[DD-Arbiter](https://github.com/albeorla/founder-mode/tree/main/apps/dd-arbiter):** Adversarial multi-model research for investment due diligence. Runs GPT-5, Claude, and Gemini in parallel as Bull, Bear, and Analyst agents, then detects where they disagree using DeBERTa-Large-MNLI for semantic clustering and NLI comparison. Uses semantic entropy rather than verbalized confidence to quantify uncertainty. The core idea: model disagreement is signal, not noise.
 
 - **Pain Radar:** Autonomous research agent using LangGraph that orchestrates Reddit scraping, noise filtering, and signal clustering with OpenAI Function Calling and async pipelines.
 
