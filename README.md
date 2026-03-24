@@ -1,7 +1,5 @@
 # Hi, I'm Albert 👋
 
-I build local-first tools and AI-powered utilities.
-
 ## Projects
 
 | | Project | Description |
