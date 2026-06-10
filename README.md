@@ -1,6 +1,7 @@
 # Albert Orlando
 
-Full-stack engineer. Building [Cleanse](https://cleanse.sh).
+Full-stack engineer.
+
 [albeorla.ai](https://albeorla.ai)
 
 ## Projects
