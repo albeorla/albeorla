@@ -8,6 +8,7 @@ Full-stack engineer.
 
 - [**Sparkle**](https://github.com/albeorla/sparkle) — Local-first research tool with Merkle-style knowledge graphs
 - [**atrp**](https://github.com/albeorla/atrp) — Trading-strategy validation platform that rejects overfit ideas by design
+- [**personal-finance-agent**](https://github.com/albeorla/personal-finance-agent) — Local MCP server giving an AI agent grounded, evidence-backed finance tools; deterministic, with every figure traced to a source row
 - [**gemini-deep-research-mcp**](https://github.com/albeorla/gemini-deep-research-mcp) — Exposes Gemini Deep Research to Claude Code as an escalation tier
 - [**research-reviewer**](https://github.com/albeorla/research-reviewer) — Runs a research idea across five frontier models, then an adversarial review pipeline
 - [**complexity-awareness**](https://github.com/albeorla/complexity-awareness) — Claude Code plugin with lightweight skills for genuinely complex coding tasks
